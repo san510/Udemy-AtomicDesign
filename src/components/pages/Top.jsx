@@ -4,6 +4,7 @@ export const Top = () => {
   return (
     <SContainer>
       <h2>TOPページです</h2>
+      <h3>追加です</h3>
     </SContainer>
   );
 };
